@@ -16,5 +16,5 @@ Compared the predicted prices against the actual values using a plot
 Technologies and Libraries:
 Used Python in a Jupyter Notebook environment with Pandas and NumPy for data handling, Scikit-learn for building the regression model, and Matplotlib and Seaborn for visualizations.
 
-Outcome:
+Output:
 [Linear Regression task3.output.pdf](https://github.com/user-attachments/files/20924380/Linear.Regression.task3.output.pdf)
