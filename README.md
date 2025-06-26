@@ -3,7 +3,7 @@ Goal: Predict house prices by applying a linear regression model on the Housing 
 
 Dataset:
 Worked with the Housing.csv file, which contains data for housing price prediction.
-https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction
+Used the Housing.csv dataset Housing Price Prediction Dataset
 
 Process:
 Cleaned and prepared the data before training a linear regression model.
