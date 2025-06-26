@@ -11,7 +11,7 @@ Model Training:
 Fit a linear regression model and assessed its performance using Mean Absolute Error (MAE), Mean Squared Error (MSE), and R² score.
 
 Visualization:
-Compared the predicted prices against the actual values using a plot.
+Compared the predicted prices against the actual values using a plot
 
 Technologies and Libraries:
 Used Python in a Jupyter Notebook environment with Pandas and NumPy for data handling, Scikit-learn for building the regression model, and Matplotlib and Seaborn for visualizations.
